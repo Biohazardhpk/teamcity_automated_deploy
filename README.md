@@ -4,11 +4,9 @@ This repo provides a quick setup for a functional TeamCity server using Vagrant 
 # To run the following prerequisites must be meet.
   - Cocolatey installation: (https://chocolatey.org/docs/installation)
 ___
+Install latest version of Vagrant fom the cmd:
 
-Install latest version of Vagrant:
-
-  C:\WINDOWS\system32>choco install vagrant  
-
+    choco install vagrant
 ___
 
 
