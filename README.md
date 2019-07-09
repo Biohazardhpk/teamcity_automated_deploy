@@ -44,7 +44,7 @@ ___
 3) For the initial setup and demo project some mannual steps are required:
 ___
   a) Database connection setup and username (MySQL is selected and U: teamcity P: teamcity)  
-![DB](/images/logo.png)
+![DB](/images/1.png)
 
 
 # Authors
