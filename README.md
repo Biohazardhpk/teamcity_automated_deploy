@@ -33,19 +33,23 @@ https://confluence.jetbrains.com/display/TW/Documentation
   
 ## Steps:
 ___
+
 1) Clone or download the repo to your local PC  
 ___
+
 2) Navigate to the respective folder and issue the vagrant command to setup the environment:  
 
     > vagrant up
     
 *once the setup finishes the environment should be accessible at: http://localhost:8111
 ___
+
 3) For the initial setup and demo project some mannual steps are required:
 ___
   a) Database connection setup and username (MySQL is selected and U: teamcity P: teamcity)  
+![](https://github.com/Biohazardhpk/teamcity_automated_deploy/blob/master/images/1.PNG)  
+  b) InstallDatabase connection setup and username (MySQL is selected and U: teamcity P: teamcity)  
 ![](https://github.com/Biohazardhpk/teamcity_automated_deploy/blob/master/images/1.PNG)
-
 
 # Authors
 
