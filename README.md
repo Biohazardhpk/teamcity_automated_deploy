@@ -48,8 +48,8 @@ ___
 ___
   a) Database connection setup and username (MySQL is selected and U: teamcity P: teamcity)  
 ![](https://github.com/Biohazardhpk/teamcity_automated_deploy/blob/master/images/1.PNG)  
-  b) InstallDatabase connection setup and username (MySQL is selected and U: teamcity P: teamcity)  
-![](https://github.com/Biohazardhpk/teamcity_automated_deploy/blob/master/images/1.PNG)
+  b) Deploy Windows Agent. In step 1 the actual deploy is a wizard in which te only configurable item is the server address(http://http://localhost:8111)  
+![](https://github.com/Biohazardhpk/teamcity_automated_deploy/blob/master/images/2.PNG)
 
 # Authors
 
