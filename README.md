@@ -1,6 +1,6 @@
 # TeamCity automated deployment on a Windows Machine
 This repo provides a quick setup for a functional TeamCity server using Vagrant and VirtualBox on a windows machine.  
-The architeture results one TeamCity server and Java build Agent on an Ubuntu 18.04 VM and a .Net build Agent on a Windows Machine 
+The resulted architeture is: one TeamCity server and a Java build Agent on an Ubuntu 18.04 VM and a .Net build Agent on a Windows Machine 
 
 # Prerequisites.
 ___
