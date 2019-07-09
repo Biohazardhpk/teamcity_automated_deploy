@@ -45,6 +45,7 @@ ___
 ___
   a) Database connection setup and username (MySQL is selected and U: teamcity P: teamcity)  
 ![DB](/images/1.png)
+Format: ![]()
 
 
 # Authors
