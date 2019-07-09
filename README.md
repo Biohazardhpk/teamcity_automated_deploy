@@ -48,14 +48,19 @@ ___
 ___
   a) Database connection setup and username (MySQL is selected and U: teamcity P: teamcity)  
 ![](https://github.com/Biohazardhpk/teamcity_automated_deploy/blob/master/images/1.PNG)  
+
   b) Deploy Windows Agent. In step 1 the actual deploy is a wizard in which te only configurable item is the server address(http://http://localhost:8111)  
 ![](https://github.com/Biohazardhpk/teamcity_automated_deploy/blob/master/images/2.PNG)
+
   c) Install NuGet on the Windows agent  
 ![](https://github.com/Biohazardhpk/teamcity_automated_deploy/blob/master/images/3.PNG)
+
   d) Import the AspNet.Identity.Mongo TeamCity Project 
-![](https://github.com/Biohazardhpk/teamcity_automated_deploy/blob/master/images/4.PNG)  
+![](https://github.com/Biohazardhpk/teamcity_automated_deploy/blob/master/images/4.PNG) 
+
   e) Inspect Build Steps   
 ![](https://github.com/Biohazardhpk/teamcity_automated_deploy/blob/master/images/5.PNG)
+
   f) Run a Build and inspect ouput
 ![](https://github.com/Biohazardhpk/teamcity_automated_deploy/blob/master/images/6.PNG)
 
