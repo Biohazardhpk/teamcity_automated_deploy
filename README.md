@@ -40,7 +40,7 @@ ___
 
 2) Navigate to the respective folder and issue the vagrant command to setup the environment:  
 
-    > vagrant up
+     > vagrant up
     
 *once the setup finishes the environment should be accessible at: http://localhost:8111
 ___
