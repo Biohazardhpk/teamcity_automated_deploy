@@ -50,6 +50,26 @@ ___
 ![](https://github.com/Biohazardhpk/teamcity_automated_deploy/blob/master/images/1.PNG)  
   b) Deploy Windows Agent. In step 1 the actual deploy is a wizard in which te only configurable item is the server address(http://http://localhost:8111)  
 ![](https://github.com/Biohazardhpk/teamcity_automated_deploy/blob/master/images/2.PNG)
+  c) Install NuGet on the Windows agent  
+![](https://github.com/Biohazardhpk/teamcity_automated_deploy/blob/master/images/3.PNG)
+  d) Import the AspNet.Identity.Mongo TeamCity Project 
+![](https://github.com/Biohazardhpk/teamcity_automated_deploy/blob/master/images/4.PNG)  
+  e) Inspect Build Steps   
+![](https://github.com/Biohazardhpk/teamcity_automated_deploy/blob/master/images/5.PNG)
+  f) Run a Build and inspect ouput
+![](https://github.com/Biohazardhpk/teamcity_automated_deploy/blob/master/images/6.PNG)
+
+___
+
+## Useful commands
+Whenever an package installation is performed that regards TeamCity server or the Linux Agent, which resides on the same VM as the server, the following commands are available to reinitialize the servicess:
+
+    # /opt/TeamCity/buildAgent/bin/agent.sh start
+    # /opt/TeamCity/buildAgent/bin/agent.sh stop
+    
+    # /etc/init.d/teamcity start
+    # /etc/init.d/teamcity stop
+    # /etc/init.d/teamcity restart
 
 # Authors
 
