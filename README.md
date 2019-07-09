@@ -2,12 +2,16 @@
 This repo provides a quick setup for a functional TeamCity server using Vagrant and VirtualBox on a windows machine.
 
 # To run the following prerequisites must be meet.
-  - Cocolatey installation: (https://chocolatey.org/docs/installation)
 ___
-Install latest version of Vagrant fom the cmd:
+  1) Cocolatey installation: (https://chocolatey.org/docs/installation)
+  2) Install latest version of Vagrant fom the cmd:
 
-    choco install vagrant
+    > choco install vagrant
+  3) Install latest version of VirtualBox fom the cmd:
+
+    > choco install virtualbox
 ___
+
 
 
 ##If the files from here do not work as a script please refer to this link: 
