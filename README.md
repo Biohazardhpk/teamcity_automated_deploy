@@ -44,8 +44,8 @@ ___
 3) For the initial setup and demo project some mannual steps are required:
 ___
   a) Database connection setup and username (MySQL is selected and U: teamcity P: teamcity)  
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://github.com/Biohazardhpk/teamcity_automated_deploy/blob/master/images/1.PNG)
+![1](/images/logo.png)
+![](https://github.com/Biohazardhpk/teamcity_automated_deploy/blob/master/images/1.PNG)
 
 
 # Authors
