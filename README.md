@@ -6,10 +6,10 @@
 ___
   1) Chocolatey installation: (https://chocolatey.org/docs/installation)
   
-  2) Install latest version of Vagrant fom the cmd:
+  2) Install latest version of Vagrant from the cmd:
 
     > choco install vagrant
-  3) Install latest version of VirtualBox fom the cmd:
+  3) Install latest version of VirtualBox from the cmd:
 
     > choco install virtualbox
 ___
